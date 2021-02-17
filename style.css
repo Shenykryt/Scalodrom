@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+
+.crek{
+    background-color: white;
+    border:1px solid black;
+}
+
+footer {
+    background-color: black;
+    padding:10px;
+}
+footer p {
+    background-color: white;
+    
+}
+
+
+
+nav a {
+    margin:10px;
+    border-bottom:5px solid black;
+    text-align:center;
+    color:black;
+}
+
+h1 {
+    text-align: center;
+}
+
+.scal {
+    border-left:10px dotted black;
+    margin:20px 30px 20px 80px;
+}
+
+
+p {
+    border:1px solid black;
+    border-radius: 10px;
+    padding:5px;
+}
+
